@@ -1,0 +1,1 @@
+# Study project example for external courses
